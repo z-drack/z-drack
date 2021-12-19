@@ -1,6 +1,6 @@
 Hi there 👋
 
-**ksidro67/ksidro67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kevin, a technology student, yes, I consider myself a student, who studies more than us in IT?
 
 Here are some ideas to get you started:
 
