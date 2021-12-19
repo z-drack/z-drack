@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 ### My Values 
 
-🖖🏾 I get shit done.
+🖖🏾 I get shit done.<\n>
 🚀Working together
 ❤️ Love what you do
 
