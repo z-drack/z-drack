@@ -2,6 +2,10 @@ Hi there 👋
 
 I'm Kevin, a technology student, yes, I consider myself a student, who studies more than us in IT?
 
+I'm an IT professional, currently holding the position of SysAdmin & ISO, but also interested in DevOps and IT automation.
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
