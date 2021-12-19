@@ -4,6 +4,9 @@ I'm Kevin, a technology student, yes, I consider myself a student, who studies m
 
 I'm an IT professional, currently holding the position of SysAdmin & ISO, but also interested in DevOps and IT automation.
 
+___________________________________________________________________________________________________________________________________________________________________________________
+
+### My Values 
 
 
 Here are some ideas to get you started:
