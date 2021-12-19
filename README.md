@@ -8,6 +8,8 @@ ________________________________________________________________________________
 
 ### My Values 
 
+�🚀🏻 I GET SHIT DONE.
+
 
 Here are some ideas to get you started:
 
