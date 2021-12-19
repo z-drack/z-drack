@@ -23,5 +23,5 @@ ________________________________________________________________________________
 
 ### Get in touch 
 
-• Linkedin: https://www.linkedin.com/in/kelvin-santos-b69b211a2/
+• Linkedin: https://www.linkedin.com/in/kelvin-santos-b69b211a2/ <br/>
 • Instagram: https://www.instagram.com/kelvinlssa/
