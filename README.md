@@ -24,6 +24,6 @@ ________________________________________________________________________________
 ### ☕️ Get in touch 
 
 • Linkedin: https://www.linkedin.com/in/kelvin-santos-b69b211a2/ <br/>
-• Medium: https://medium.com/@ksidro67
+• Medium: https://medium.com/@ksidro67 <br/>
 • Email: k67ls@outlook.com
 
