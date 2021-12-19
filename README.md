@@ -1,4 +1,4 @@
-Hi there 👋
+### Olá pessoal(Hello There) 👋
 
 I'm Kevin, a technology student, yes, I consider myself a student, who studies more than us in IT?
 
@@ -8,8 +8,11 @@ ________________________________________________________________________________
 
 ### My Values 
 
-�🚀🏻 I GET SHIT DONE.
+🖖🏾 I get shit done.
+🚀Working together
+❤️ Love what you do
 
+___________________________________________________________________________________________________________________________________________________________________________________
 
 Here are some ideas to get you started:
 
