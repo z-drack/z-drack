@@ -7,7 +7,7 @@ I'm an IT professional, currently holding the position of SysAdmin & ISO, but al
 In my spare time I like to study new technologies, astronomy and play the piano.
 ___________________________________________________________________________________________________________________________________________________________________________________
 
-### My Values 
+### 🌠 My Values 
 
 🖖🏾 I get shit done.<br/>
 🚀 Working together.<br/>
@@ -15,13 +15,13 @@ ________________________________________________________________________________
 👨🏽‍🏫 All knowledge must be shared.
 ___________________________________________________________________________________________________________________________________________________________________________________
 
-### Goals for 2022
+### 🔭 Goals for 2022
 
 I want to use this local to share my ideas, projects and help the community.
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
-### Get in touch 
+### ☕️ Get in touch 
 
 • Linkedin: https://www.linkedin.com/in/kelvin-santos-b69b211a2/ <br/>
 • Instagram: https://www.instagram.com/kelvinlssa/
