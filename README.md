@@ -17,8 +17,8 @@ ________________________________________________________________________________
 
 ### 🔭 Goals for 2022
 
-I want to use this local to share my ideas, projects and help the community.
-
+I want to use this local to share my ideas, projects and help the community.<br/>
+And develop my soft/hard skills.
 ___________________________________________________________________________________________________________________________________________________________________________________
 
 ### ☕️ Get in touch 
