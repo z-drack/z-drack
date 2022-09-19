@@ -1,14 +1,17 @@
-Hi 👋, I'm Kelvin
+### Hey there 👋
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=o-urUbuntu&theme=darkhub&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+### About me
 
 I'm Kevin, a technology student, yes, I consider myself a student, who studies more than us who work with IT?
 
-I'm an IT professional, currently holding the position of SysAdmin & ISO, but also interested in SRE,DevSecOps and IT automation.
+I'm an IT professional, currently holding the position of SysAdmin & ISO, but also interested in SRE, DevSecOps and IT automation.
 
+In my spare time I like to study new technologies, astronomy and play the piano and video games, I'm also a great reader.
 
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=o-urUbuntu&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
+### 🔭 Goals for 2022
 
 
 <div>
