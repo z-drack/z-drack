@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=o-urUbuntu&theme=darkhub&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kelvinsidro67&theme=darkhub&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 👨🏽‍💻 About me 
 
@@ -42,6 +42,6 @@
 <img src="https://cdn.cdnlogo.com/logos/s/58/sonarqube.svg" width="50" height="50" />
 <div>
 <a href="https://github.com/o-urUbuntu">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-urUbuntu&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=o-urUbuntu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinsidro67&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvinsidro67&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
