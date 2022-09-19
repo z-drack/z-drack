@@ -14,7 +14,7 @@
 
 • I would like to use this local to share my ideas, projects and help the community.
 
-• Develop my soft/hard skills.
+• Develop my soft/hard skills in cyber security, like application security and DevSecOps.
 
 ### ☕️ Get in touch 
 
