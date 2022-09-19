@@ -1,3 +1,12 @@
+Hi 👋, I'm Kelvin
+
+I'm Kevin, a technology student, yes, I consider myself a student, who studies more than us who work with IT?
+
+I'm an IT professional, currently holding the position of SysAdmin & ISO, but also interested in SRE,DevSecOps and IT automation.
+
+
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=o-urUbuntu&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 
