@@ -22,7 +22,7 @@ In my spare time I like to study new technologies, astronomy and play the piano 
 </div>
 
 <div>
-<br>### Languages and Tools:<br>
+### 🧰 Languages and Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" height="50" />
