@@ -21,7 +21,6 @@ In my spare time I like to study new technologies, astronomy and play the piano 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=o-urUbuntu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<div>
 ### 🧰 Languages and Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />       
@@ -32,4 +31,3 @@ In my spare time I like to study new technologies, astronomy and play the piano 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" />
 <img src="https://cdn.cdnlogo.com/logos/s/52/snyk.svg" width="50" height="50" />
 <img src="https://cdn.cdnlogo.com/logos/s/58/sonarqube.svg" width="50" height="50" />
-</div>
