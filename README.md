@@ -14,7 +14,7 @@
 
 • I would like to use this local to share my ideas, projects and help the community.
 
-• And develop my soft/hard skills.
+• Develop my soft/hard skills.
 
 ### ☕️ Get in touch 
 
