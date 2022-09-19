@@ -4,16 +4,16 @@
 
 ### 👨🏽‍💻 About me 
 
-I'm Kevin, a technology student, yes, I consider myself a student, who studies more than us who work with IT?
+• I'm Kevin, a technology student, yes, I consider myself a student, who studies more than us who work with IT?
 
-I'm an IT professional, currently holding the position of SysAdmin & ISO, but also interested in SRE, DevSecOps and IT automation.
+• I'm an IT professional, currently holding the position of SysAdmin & ISO, but also interested in SRE, DevSecOps and IT automation.
 
-In my spare time I like to study new technologies, astronomy and play the piano and video games, I'm also a great reader.
+• In my spare time I like to study new technologies, astronomy and play the piano and video games, I'm also a great reader.
 
 ### 🔭 Goals for 2022
 
-I would like to use this local to share my ideas, projects and help the community.<br/>
-And develop my soft/hard skills.
+• I would like to use this local to share my ideas, projects and help the community.<br/>
+• And develop my soft/hard skills.
 
 ### ☕️ Get in touch 
 
