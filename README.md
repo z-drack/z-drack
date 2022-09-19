@@ -18,6 +18,7 @@ In my spare time I like to study new technologies, astronomy and play the piano 
 
 
 ### 🧰 Languages and Tools
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" height="50" />
@@ -27,6 +28,7 @@ In my spare time I like to study new technologies, astronomy and play the piano 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" />
 <img src="https://cdn.cdnlogo.com/logos/s/52/snyk.svg" width="50" height="50" />
 <img src="https://cdn.cdnlogo.com/logos/s/58/sonarqube.svg" width="50" height="50" />
+</div>
 
 <div>
 <a href="https://github.com/o-urUbuntu">
