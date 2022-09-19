@@ -8,7 +8,7 @@
 
 • I'm an IT professional, currently holding the position of SysAdmin & ISO, but also interested in AppSec, DevSecOps and SRE.
 
-• In my spare time I like to study new technologies, astronomy and play the piano and video games, I'm also a great reader.
+• In my spare time I like to study new technologies, astronomy and play the piano, I'm also an avid reader.
 
 ### 🔭 Goals for 2022
 
