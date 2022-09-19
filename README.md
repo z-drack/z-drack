@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=o-urUbuntu&row=1&column=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=o-urUbuntu&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
