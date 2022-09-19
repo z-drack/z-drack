@@ -20,7 +20,7 @@ And develop my soft/hard skills.
 • Linkedin: https://www.linkedin.com/in/kelvin-santos-b69b211a2/ <br/>
 
 ### 🧰 Languages and Tools
-
+<br></br>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />       
