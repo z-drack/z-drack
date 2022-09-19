@@ -1,3 +1,7 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=o-urUbuntu)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 <div>
 <a href="https://github.com/o-urUbuntu">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-urUbuntu&layout=compact&langs_count=7&theme=dracula"/>
