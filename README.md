@@ -3,7 +3,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=o-urUbuntu&theme=darkhub&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-### About me
+### 👨🏽‍💻 About me 
 
 I'm Kevin, a technology student, yes, I consider myself a student, who studies more than us who work with IT?
 
