@@ -32,7 +32,7 @@ And develop my soft/hard skills.
 <img src="https://cdn.cdnlogo.com/logos/s/52/snyk.svg" width="50" height="50" />
 <img src="https://cdn.cdnlogo.com/logos/s/58/sonarqube.svg" width="50" height="50" />
 </div>
-
+<br></br>
 <div>
 <a href="https://github.com/o-urUbuntu">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-urUbuntu&layout=compact&langs_count=7&theme=dracula"/>
